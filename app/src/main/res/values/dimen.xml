@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="titleTextSize">24sp</dimen>
+    <dimen name="bodyTextSize">16sp</dimen>
+    <dimen name="defaultMargin">16dp</dimen>
+
+
+    <dimen name="itemModelMargin">8dp</dimen>
+
+</resources>
